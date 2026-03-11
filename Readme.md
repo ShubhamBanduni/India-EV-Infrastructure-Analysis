@@ -73,6 +73,12 @@ India_EV_Infrastructure_Analysis/
 
 ---
 
+## Notebook
+
+📓 [View Notebook on nbviewer](https://nbviewer.org/github/ShubhamBanduni/India-EV-Infrastructure%20Analysis/blob/main/notebook/eda.ipynb)
+
+---
+
 ## How to Run
 
 1. Clone the repository
