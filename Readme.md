@@ -75,7 +75,7 @@ India_EV_Infrastructure_Analysis/
 
 ## Notebook
 
-📓 [View Notebook on nbviewer](https://nbviewer.org/github/ShubhamBanduni/India-EV-Infrastructure%20Analysis/blob/main/notebook/eda.ipynb)
+📓 [View Notebook on nbviewer](https://nbviewer.org/github/ShubhamBanduni/India-EV-Infrastructure-Analysis/blob/main/notebook/eda.ipynb)
 
 ---
 
